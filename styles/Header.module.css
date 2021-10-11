@@ -1,0 +1,18 @@
+.menu {
+    background-color: #ff9345;
+    width: 100vw;
+    position: fixed;
+    height: 4rem;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 22;
+}
+
+.menu .logo{
+    font-size: 2rem;
+    color: #fff;
+
+}
